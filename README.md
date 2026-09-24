@@ -28,7 +28,7 @@
 
 ### 🎓 Certifications
 
-- ✅ AWS Cloud Practitioner (CLF-C02) · Intro to GitOps (LFS169) · Linux Kernel Development (LFD103)
+- ✅ AWS Cloud Practitioner (CLF-C02) · Intro to GitOps (LFS169) · Linux Kernel Development (LFD103) · Docker & Kubernetes Fundamentals
 - ⏳ *In progress:* AWS Solutions Architect Associate · HashiCorp Terraform Associate · CKA
 
 ### 📫 Contact
