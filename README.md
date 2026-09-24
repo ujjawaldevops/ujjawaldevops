@@ -10,12 +10,12 @@
 
 ### 🛠️ Stack
 
-**Cloud:** AWS (EKS, EC2, RDS, Lambda, S3, VPC, IAM, Route53, Bedrock) · GCP (GKE, Cloud SQL)
-**Containers:** Docker · Kubernetes · Helm · NGINX Ingress · HPA / Cluster Autoscaler
-**IaC & GitOps:** Terraform · Ansible · ArgoCD · Jenkins · GitHub Actions · GitLab CI
-**Observability:** Prometheus · Grafana · Loki · OpenTelemetry · CloudWatch · SLI/SLO
-**Security:** IAM & RBAC · HashiCorp Vault · Secrets Manager · OPA/Gatekeeper · Falco · Trivy
-**Code:** Python · Bash · YAML
+- **Cloud:** AWS (EKS, EC2, RDS, Lambda, S3, VPC, IAM, Route53, Bedrock) · GCP (GKE, Cloud SQL)
+- **Containers:** Docker · Kubernetes · Helm · NGINX Ingress · HPA / Cluster Autoscaler
+- **IaC & GitOps:** Terraform · Ansible · ArgoCD · Jenkins · GitHub Actions · GitLab CI
+- **Observability:** Prometheus · Grafana · Loki · OpenTelemetry · CloudWatch · SLI/SLO
+- **Security:** IAM & RBAC · HashiCorp Vault · Secrets Manager · OPA/Gatekeeper · Falco · Trivy
+- **Code:** Python · Bash · YAML
 
 ### 📌 Featured projects
 
@@ -28,8 +28,8 @@
 
 ### 🎓 Certifications
 
-✅ AWS Cloud Practitioner (CLF-C02) · Intro to GitOps (LFS169) · Linux Kernel Development (LFD103)
-⏳ *In progress:* AWS Solutions Architect Associate · HashiCorp Terraform Associate · CKA
+- ✅ AWS Cloud Practitioner (CLF-C02) · Intro to GitOps (LFS169) · Linux Kernel Development (LFD103)
+- ⏳ *In progress:* AWS Solutions Architect Associate · HashiCorp Terraform Associate · CKA
 
 ### 📫 Contact
 
